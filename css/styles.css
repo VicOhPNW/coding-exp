@@ -28,11 +28,18 @@ p {
 
 .week {
   font-family: sans-serif;
+  /*margin-top: 100px;
+  margin-bottom: 5px;*/
 
 }
 
 .week p {
   font-style: italic;
+}
+
+.week h4 {
+  margin-top: 20px;
+  margin-bottom: 100px;
 }
 
 .cool {
